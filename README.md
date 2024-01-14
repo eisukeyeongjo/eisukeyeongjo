@@ -1,5 +1,10 @@
 ### Hi, I'm EISUKEYEONGJO 👋
 
+Xin chào, tên tôi là 榮.
+Tôi là người Nhật làm kỹ sư phần mềm ở Tokyo.
+Tại nơi làm việc, tôi chủ yếu phát triển các ứng dụng web bằng Ruby on Rails, nhưng gần đây tôi cũng đảm nhiệm vai trò lãnh đạo các nhóm phát triển và quản lý dự án.
+Mối quan tâm hiện tại của tôi là các biện pháp đối phó với lỗ hổng ứng dụng và tối đa hóa giá trị dịch vụ thông qua phát triển Scrum.
+
 你好，我叫 榮。
 我是一名日本人，在东京担任软件工程师。
 在工作中，我主要使用 Ruby on Rails 开发网络应用程序，但最近我也在领导开发团队和管理项目。
