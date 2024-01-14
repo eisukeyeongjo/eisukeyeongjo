@@ -1,4 +1,4 @@
-### Hi, I'm EISYOS 👋
+### Hi, I'm EISUKEYEONGJO 👋
 
 你好，我叫 榮。
 我是一名日本人，在东京担任软件工程师。
@@ -11,7 +11,7 @@
 현재 저의 관심사는 애플리케이션의 취약점 대책과 스크럼 개발을 통한 서비스 가치의 극대화입니다.
 
 <!--
-**eisyos/eisyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eisukeyeongjo/eisukeyeongjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
